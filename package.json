@@ -1,0 +1,11 @@
+{
+  "name": "mana-react",
+  "version": "1.0.0",
+  "description": "Mana react by Jayakrishna",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jayakrishna",
+  "license": "ISC"
+}
