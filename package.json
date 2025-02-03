@@ -2,10 +2,20 @@
   "name": "mana-react",
   "version": "1.0.0",
   "description": "Mana react by Jayakrishna",
-  "main": "App.js",
+ 
   "scripts": {
+    "start":"npx parcel index.html",
+    "build" : "npx build indx.html",
     "test": "jest"
   },
   "author": "Jayakrishna",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
 }
